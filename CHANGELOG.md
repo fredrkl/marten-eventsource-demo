@@ -1,3 +1,8 @@
+# v1.0.0 (2025-11-25)
+
+## ✨ New Features
+- [`4c5d5fe`](https://github.com/fredrkl/marten-eventsource-demo/commit/4c5d5fe)  Starting on documentation
+
 # [v1.3.0](https://github.com/fredrkl/template-base/compare/v1.2.0...v1.3.0) (2025-08-03)
 
 ## ✨ New Features
