@@ -1,3 +1,8 @@
+# [v1.1.0](https://github.com/fredrkl/marten-eventsource-demo/compare/v1.0.0...v1.1.0) (2025-11-25)
+
+## ✨ New Features
+- [`8a4f510`](https://github.com/fredrkl/marten-eventsource-demo/commit/8a4f510)  Need more permissions on semantic release
+
 # v1.0.0 (2025-11-25)
 
 ## ✨ New Features
