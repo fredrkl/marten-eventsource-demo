@@ -1,3 +1,8 @@
+# [v1.2.0](https://github.com/fredrkl/marten-eventsource-demo/compare/v1.1.0...v1.2.0) (2025-11-25)
+
+## ✨ New Features
+- [`1437005`](https://github.com/fredrkl/marten-eventsource-demo/commit/1437005)  Use workflow permissions instead
+
 # [v1.1.0](https://github.com/fredrkl/marten-eventsource-demo/compare/v1.0.0...v1.1.0) (2025-11-25)
 
 ## ✨ New Features
